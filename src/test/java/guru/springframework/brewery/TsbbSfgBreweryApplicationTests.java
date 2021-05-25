@@ -9,5 +9,4 @@ class TsbbSfgBreweryApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
